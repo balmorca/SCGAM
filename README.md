@@ -1,0 +1,3 @@
+# activosfijos-inventarios
+# SCGAM
+# SCGAM
